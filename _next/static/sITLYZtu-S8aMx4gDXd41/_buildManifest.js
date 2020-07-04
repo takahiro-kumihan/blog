@@ -1,1 +1,0 @@
-self.__BUILD_MANIFEST = {"/posts/first-post":["static\u002Fcss\u002Fb303695e429fd9d5b1c3.css"]};self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
